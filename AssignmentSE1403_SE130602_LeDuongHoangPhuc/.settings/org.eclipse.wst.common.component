@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="AssignmentSE1403_SE130602_LeDuongHoangPhuc">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="AssignmentSE1403_SE130602_LeDuongHoangPhuc"/>
+        <property name="java-output-path" value="/AssignmentSE1403_SE130602_LeDuongHoangPhuc/build/classes"/>
+    </wb-module>
+</project-modules>
